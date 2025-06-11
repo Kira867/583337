@@ -158,9 +158,9 @@ RectTransform:
   - {fileID: 872302788}
   - {fileID: 956696612}
   - {fileID: 1021194278}
+  - {fileID: 453930270}
   - {fileID: 662607508}
   - {fileID: 1706432871}
-  - {fileID: 453930270}
   - {fileID: 921424372}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1020,6 +1020,7 @@ GameObject:
   - component: {fileID: 937169614}
   - component: {fileID: 937169613}
   - component: {fileID: 937169612}
+  - component: {fileID: 937169615}
   m_Layer: 0
   m_Name: Contreoller
   m_TagString: Untagged
@@ -1097,6 +1098,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &937169615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 937169611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: c229b9487a2b3fe41b367d3c1932dc30, type: 2}
 --- !u!1 &956696611
 GameObject:
   m_ObjectHideFlags: 0
