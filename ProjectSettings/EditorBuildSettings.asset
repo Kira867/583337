@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/dialog 2.unity
     guid: b9463d8da03522140be7a9d5cff84d83
   - enabled: 1
-    path: Assets/Scenes/dialog 3.unity
+    path: Assets/Scenes/dialog 4.unity
     guid: 4581b6c03ac3ff74ab10b695adf8cbc4
+  - enabled: 1
+    path: Assets/Scenes/dialog 3.unity
+    guid: d4c13919be34bfe46924887f88f45c09
   m_configObjects: {}
